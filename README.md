@@ -17,7 +17,7 @@
 
 👯 Hobbies:
 - Volleyball/Badminton
-- Anime
+- Anime (Haikyuu)
 - Gaming
 - The occasional hike through the mountains of BC
 
