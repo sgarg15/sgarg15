@@ -4,7 +4,7 @@
 # Hey Satvik here!
 
 🔭 I’m currently working on:
-- My ConnectPharma Project
+- My SoundSphere Project
 - Personal Website
 
 🌱 I’m currently learning:
