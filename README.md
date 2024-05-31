@@ -4,16 +4,16 @@
 # Hey Satvik here!
 
 🔭 I’m currently working on:
-- My SoundSphere Project
+- Friday (The Computer God)
 - Personal Website
 
 🌱 I’m currently learning:
-- Web development using Angular/React (TypeScript)
-- Dart/Firebase!!
-- Java/CSS
+- LLM's (Specifically Local LLMs (Ollama))
+- Multi-Agent Systems and Hamilton Jacobian Isaacs Equations Math (USRA Research Assistant)
 
 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/satvikgarg15/)
+- [Twitter](https://x.com/SatvikG40790262)
 
 👯 Hobbies:
 - Volleyball/Badminton
